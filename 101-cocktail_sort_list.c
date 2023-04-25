@@ -2,7 +2,6 @@
 
 /**
 * swapem - Swaps tha nodes
-* 
 * @l: left or lower node.
 * @r: right or later node.
 * @h: Head of dlist.
