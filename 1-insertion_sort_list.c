@@ -2,9 +2,8 @@
 
 /**
  * swap_left -swap two nodes right left position
- * 
  * @list: list
- * Return: NULL
+ *Return: NULL
  *
  **/
 void swap_left(listint_t *list)
@@ -35,7 +34,6 @@ void swap_left(listint_t *list)
 
 /**
  * swap_right -swap two nodes left rigth position
- * 
  * @l: list
  * Return: Null
  **/
@@ -73,7 +71,6 @@ void swap_right(listint_t *l)
 
 /**
  * insertion_sort_list -sorts a doubly linked list in ascending order
- *
  * @list: list
  * Return: NULL
  */
